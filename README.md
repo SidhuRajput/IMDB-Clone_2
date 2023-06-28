@@ -1,14 +1,15 @@
-This is a Imdb clone website for movie searching.
+This is a IMDB Clone website for movie searching.
 
-i have created this project using html css and javascript.
+I have created this project using html css and vanilla javascript.
 
-This website is created assuming three section:
+This website is created assuming Four section:
 
 i. Header section: this section has been built for only containing the heading name of the webiste.
 
-ii. Search section: this section is created for searching the movies by thei name.
+ii. Search section: this section is created for searching the movies by the name.
 
-iii. Result section: result section contains all details of the movie which has been search by the user.
+iii. Result section: result section contains all details of the movie which has been searched & clicked by the user And GO BACK is also there to back result page or previous page.
 
+iv. Favorite section: clicked on heart which is beside movie it will show in favorite section.
 
 
