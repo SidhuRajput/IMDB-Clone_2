@@ -12,4 +12,4 @@ iii. Result section: result section contains all details of the movie which has 
 
 iv. Favorite section: clicked on heart which is beside movie it will show in favorite section.
 
-
+https://sidhurajput.github.io/IMDB-Clone_2/
